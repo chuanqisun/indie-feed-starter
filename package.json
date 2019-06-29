@@ -1,0 +1,23 @@
+{
+  "name": "indie-feed-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "build": "ndfd"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuanqisun/indie-feed-starter.git"
+  },
+  "author": "Chuanqi Sun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chuanqisun/indie-feed-starter/issues"
+  },
+  "homepage": "https://github.com/chuanqisun/indie-feed-starter#readme",
+  "devDependencies": {
+    "@indie-feed/cli": "file:../indie-feed/packages/cli"
+  }
+}
