@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/chuanqisun/indie-feed-starter#readme",
   "devDependencies": {
-    "@indie-feed/cli": "file:../indie-feed/packages/cli"
+    "@indie-feed/cli": "^1.0.1"
   }
 }
